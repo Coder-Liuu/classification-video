@@ -1,13 +1,17 @@
-# Classification：视频分类模型在Tensorflow当中的实现
+# Classification：视频分类在Tensorflow当中的实现
 
 ## 所需环境
 tensorflow-gpu=2.2.0
 
+库的近似版本应该也可以
+
 ## 文件下载
 
 默认数据集可以在百度云下载,下载完需要放在videos/目录中
-链接: 
-提取码: eztx
+
+链接：https://pan.baidu.com/s/1U_PZsce8g74y5e5rKzzRww   
+提取码：sfn0
+
 
 ## 训练步骤
 
